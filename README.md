@@ -6,7 +6,7 @@ SignalOS is an AI market-decision agent built for the Binance Agent OS Mini Hack
 
 ## Live app
 
-Production: https://signal-os-jerryboi.vercel.app
+Production: https://signalos-agent.netlify.app
 
 ## Core workflow
 
@@ -49,7 +49,7 @@ The V1 requires:
 - React 19
 - TypeScript
 - Binance public market-data capabilities / Agent OS architecture
-- Vercel
+- Netlify
 - GitHub
 
 ## Routes
