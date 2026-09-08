@@ -8,6 +8,10 @@ SignalOS is an AI market-decision agent built for the Binance Agent OS Mini Hack
 
 Production: https://signalos-agent.netlify.app
 
+## Demo / Hackathon submission
+
+X demo: https://x.com/dfw_jerryboi/status/2097435071334474219
+
 ## Core workflow
 
 **Radar → MoveLens → Thesis → Guard**
