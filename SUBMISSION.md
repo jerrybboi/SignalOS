@@ -20,10 +20,10 @@ SignalOS is an AI market-decision agent that detects unusual Binance market cond
 
 ## Links
 - Repository: https://github.com/jerrybboi/SignalOS
-- Production: https://signal-os-jerryboi.vercel.app
+- Production: https://signalos-agent.netlify.app
 
 ## Submission checklist
-- [ ] Production URL accessible without Vercel authentication
+- [ ] Production URL accessible without login
 - [ ] Home loads and live market data appears
 - [ ] Radar opens and Investigate links work
 - [ ] Investigation → Thesis works
